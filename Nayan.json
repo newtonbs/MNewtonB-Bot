@@ -6,11 +6,11 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
-  "PREFIX": "/",
+  "BOTNAME": "MNewtonB-BOT",
+  "PREFIX": "★",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100095322679638"
+    
   ],
   "ADMINBOT": [
     "100014896964436",
